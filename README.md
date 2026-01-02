@@ -6,6 +6,7 @@ My work focuses on:
 - applied ML/AI research
 - graphs - graph algorithms and graph neural networks (GNN)
 - information retrieval
+- reasoning
 - trend detection
 - recommendation systems
 - systems architecture design
