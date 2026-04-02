@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm an ML/AI researcher with over 10 years of experience in industrial software engineering.
+I'm an ML/AI researcher with over 10 years of experience in enterprise software engineering.
 
 My work focuses on:
 - applied ML/AI research
