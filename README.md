@@ -14,7 +14,7 @@ PhD, EPFL - large-scale dynamic networks (attention, anomaly detection, knowledg
 Previously @ **INAIT** - graph-based recommendation for scientific content, search & anomaly/trend detection for finance
 
 ### 🧠 Focus areas
-`LLMs` `search & retrieval` `agent design` `knowledge graphs` `GNNs`
+`LLM platform` `search & retrieval` `agent design` `knowledge graphs` `GNNs`
 
 ### 🛠️ Stack
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
